@@ -89,4 +89,4 @@
 여러분도 교환독서로 독서의 즐거움을 두 배로 만들어보세요!
 
 ## speech wav
-[감정대사](https://github.dev/oyeoyj/toylearn_AI_multimedias/blob/main/quests/30_speech.wav)
+[감정대사](https://github.com/oyeoyj/toylearn_AI_multimedias/blob/main/quests/30_speech.wav)
