@@ -90,3 +90,4 @@
 
 ## speech wav
 [감정대사](https://github.dev/oyeoyj/toylearn_AI_multimedias/blob/main/quests/30_speech.wav)
+
