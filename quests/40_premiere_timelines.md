@@ -18,7 +18,7 @@
 ## 서브텍스트를 이미지 텍스트로
 ```
 - (복사시키기) Subtitle->우클릭->Add track->Alt+복사하고 싶은 subtitle 전체 선택후 위로 올리기 
-- (변환시키기) 좌측 상단에 Graphics and Titles-> Upgrade to 
+- (변환시키기) 좌측 상단에 Graphics and Titles-> Upgrade caption to graphic
 ```
 ## 이미지 크기 조정
 ```
